@@ -1,0 +1,1 @@
+{"rooms": {"1": {"name": "Press", "bookings": [{"organiser": "Francesco"}, {"organiser": "Josh"}]}, "2": {"name": "Press", "bookings": [{"organiser": "Josh"}, {"organiser": "Francesco"}]}, "3": {"name": "Press", "bookings": []}, "4": {"name": "Press", "bookings": []}}}
